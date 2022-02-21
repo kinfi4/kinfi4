@@ -10,10 +10,10 @@
     Hi there!👋 <br> 
     I am Ilya, an enthusiast currently working of EPAM System as a Python Developer and Data Engineer. <br> <br>
 	
-    So glad you are here, I got into IT at 2019 and from the first beginning I was really interested in everything connected with data processing and machine learning. I have some web development experience as well. The biggest web project I've ever done is KinGames, you might find source code <a href="https://github.com/kinfi4/kingames"> here </a>.
+So glad you are here, I got into IT at 2019 and from the first beginning I was really interested in everything connected with data processing and machine learning. I have some web development experience as well. The biggest web project I've ever done is KinGames, you might find source code <a href="https://github.com/kinfi4/kingames"> here </a>.
 	
 ### Current focus ![image](https://user-images.githubusercontent.com/62206391/155000739-f60ed62e-bd49-4564-a046-e6be5938c270.png)  
-     <b> python, linux, AI, data engineering, big data </b>.
+<b> python, linux, AI, data engineering, big data </b>.
     
     
 </p>
