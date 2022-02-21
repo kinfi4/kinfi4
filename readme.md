@@ -7,12 +7,12 @@
 <div>
 <br>
 <p align="left">
-   <h1> Hi there!👋 </h1> <br> 
-    I am Ilya, an enthusiast currently working of EPAM System as a Python Developer and Data Engineer. <br> <br>
+   <h2> Hi there!👋 </h2> <br><hr> 
+    I'm Ilya, an enthusiast currently working of EPAM System as a Python Developer and Data Engineer. <br> <br>
 	
 So glad you are here, I got into IT at 2019 and from the first beginning I was really interested in everything connected with data processing and machine learning. I have some web development experience as well. The biggest web project I've ever done is KinGames, you might find source code <a href="https://github.com/kinfi4/kingames"> here</a>.  
 	
-# Current focus &#128187;
+## Current focus &#128187;
 <b> python, linux, AI, data engineering, big data </b>.
     
     
