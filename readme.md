@@ -14,9 +14,7 @@ So glad you are here, I got into IT at 2019 and from the first beginning I was r
 
 ## Current focus &#128187;
 <b> python, linux, AI, data engineering, big data </b>.
-    
-    
-</p>
+</p> <br> <br>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
