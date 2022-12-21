@@ -25,12 +25,7 @@ So glad you are here, I got into IT at 2019 and from the first beginning I was r
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinfi4&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="kinfi4" />
 	</p>
 <p align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinfi4&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="kinfi4" align = "center"/></p>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinfi4&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="kinfi4" align = "center" width="1500em" /></p>
 
-
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Kinfi4 Activity" src="https://activity-graph.herokuapp.com/graph?username=kinfi4&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-
-</div>
 
 
