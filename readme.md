@@ -10,7 +10,7 @@
    <h2> Hi there!👋 </h2> <br>
     I'm Ilya, an enthusiast currently working of EPAM System as a Python Developer and Data Engineer. <br> <br>
 	
-So glad you are here, I got into IT at 2019 and from the first beginning I was really interested in everything connected with data processing and machine learning. I have some web development experience as well. The biggest web project I've ever done is KinGames, you might find source code <a href="https://github.com/kinfi4/kingames"> here</a>.  <br> <br>
+So glad you are here, I got into IT in 2019 and from the first beginning, I was really interested in everything connected with data processing and machine learning. I have some web development experience as well. Currently, I'm working on a big project Kin-News. That's an open-source web platform for analyzing text from Telegram channels. Also, that will be a great tool for testing your custom NLP models. The source code of the project can be found <a href="https://github.com/kinfi4/kin-news"> here</a>.  <br> <br>
 
 ## Current focus &#128187;
 <b> python, linux, NLP, data engineering, big data </b>.
