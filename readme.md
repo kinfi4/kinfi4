@@ -10,7 +10,7 @@
 	<h2> Hi there! 👋 </h2> <br>
 	I'm Illia, a Senior Software & AI Engineer, specializing in large-scale document processing platforms and AI-powered solutions. <br> <br>
 	
-I started my journey in IT in 2019, fascinated by data processing, distributed systems, and machine learning. Over the years, I’ve built strong expertise in Python, microservices, and AI integration. I’m passionate about designing reliable, scalable systems — from backend services to AI-driven document extraction pipelines. <br> <br>
+I started my journey in IT in 2019, fascinated by data processing, distributed systems, and machine learning. Over the years, I’ve built strong expertise in Python, microservices, and AI integration. I’m passionate about designing reliable, scalable systems — from backend services to AI-driven solutions. <br> <br>
 
 ## 🚀 Current Focus
 <b>Distributed Systems, AI Engineering, AI Agents, RAG Solutions, Cloud (Azure/GCP/AWS), Intelligent Document Processing</b> <br> <br>
