@@ -7,13 +7,13 @@
 <div>
 <br>
 <p align="left">
-   <h2> Hi there!👋 </h2> <br>
-    I'm Ilya, an enthusiast currently working of EPAM System as a Python Developer and Data Engineer. <br> <br>
+	<h2> Hi there! 👋 </h2> <br>
+	I'm Illia, a Senior Software & AI Engineer, specializing in large-scale document processing platforms and AI-powered solutions. <br> <br>
 	
-So glad you are here, I got into IT in 2019 and from the first beginning, I was really interested in everything connected with data processing and machine learning. I have some web development experience as well. Currently, I'm working on a big project Kin-News. That's an open-source web platform for analyzing text from Telegram channels. Also, that will be a great tool for testing your custom NLP models. The source code of the project can be found <a href="https://github.com/kinfi4/kin-news"> here</a>.  <br> <br>
+I started my journey in IT in 2019, fascinated by data processing, distributed systems, and machine learning. Over the years, I’ve built strong expertise in Python, microservices, and AI integration. I’m passionate about designing reliable, scalable systems — from backend services to AI-driven document extraction pipelines. <br> <br>
 
-## Current focus &#128187;
-<b> python, linux, NLP, data engineering, big data </b>.
+## 🚀 Current Focus
+<b>Distributed Systems, AI Engineering, AI Agents, RAG Solutions, Cloud (Azure/GCP/AWS), Intelligent Document Processing</b> <br> <br>
 </p> <br>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
