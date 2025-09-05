@@ -17,8 +17,6 @@ I started my journey in IT in 2019, fascinated by data processing, distributed s
 </p> <br>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
-	
-  <summary><b>⚡ Github Stats</b></summary>
 
 <p align="center">
 
