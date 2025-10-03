@@ -13,7 +13,7 @@
 I started my journey in IT in 2019, fascinated by data processing, distributed systems, and machine learning. Over the years, I’ve built strong expertise in Python, microservices, and AI integration. I’m passionate about designing reliable, scalable systems - from backend services to AI-driven solutions. <br> <br>
 
 ## 🚀 Current Focus
-<b>Distributed Systems, AI Engineering, AI Agents, RAG Solutions, Cloud (Azure/GCP/AWS), Intelligent Document Processing</b> <br> <br>
+<b>Distributed Systems, AI Engineering, AI Agents, RAG Solutions, Cloud (Azure/AWS), Intelligent Document Processing</b> <br> <br>
 </p> <br>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
