@@ -14,8 +14,7 @@ I started my journey in IT in 2019, fascinated by data processing, distributed s
 
 ## 🚀 Current Focus
 <b>Distributed Systems, AI Engineering, AI Agents, RAG Solutions, Cloud (Azure/AWS), Intelligent Document Processing</b> <br> <br>
-</p> <br>
-
+</p> 
 <h2>ℹ️ &nbsp;Github Info</h2>
 
 <p align="center">
